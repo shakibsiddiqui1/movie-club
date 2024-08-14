@@ -64,10 +64,17 @@
   - **Add movie trailer page:** When the user clicks on a movie, they will be redirected to the trailer page where the movie trailer will start playing.
   - **Login/Signup pages**
 - **Testing**
-  - **Unit Testing:** Implement unit tests for individual components using Jest and React Testing Library to ensure they work as expected.
+  - **Unit Testing:** Implement unit tests for individual components using Jest and React Testing Library to ensure they work as expected.<br/><br/>
 
-- **GPT Page**<br/><br/>
-![IMG_20240629_132404 (1)](https://github.com/shakibsiddiqui1/netflix-gpt/assets/75198727/ab79f997-eb4b-4e56-b67f-c7eb5f62d4c6)<br/><br/>
+# Screenshots
+- **Home Page**<br/>
+![Screenshot (98)](https://github.com/user-attachments/assets/d7fd215e-373a-454f-a1dc-0bd844910690)
+<br/>
+- **Favourite Movie Page**<br/>
+![Screenshot (99)](https://github.com/user-attachments/assets/a20effb2-927e-41c2-b50f-aaa394995cfc)
+
+<br/><br/>
+
 ##  💖Conclusion
 The Movie Filtering Application provides a dynamic and interactive experience for filtering movies based on title. It leverages React's component-based architecture, and modern responsive framework Tailwind CSS to deliver a responsive user interface. Future improvements could enhance functionality, performance, and user experience.<br/><br/>
 If you have any questions, suggestions, or just want to connect, feel free to reach out.<br/><br/><br/>
