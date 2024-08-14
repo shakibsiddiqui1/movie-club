@@ -70,11 +70,10 @@
 - **Home Page**<br/>
 ![Screenshot (98)](https://github.com/user-attachments/assets/d7fd215e-373a-454f-a1dc-0bd844910690)
 <br/>
+
 - **Favourite Movie Page**<br/>
-![Screenshot (99)](https://github.com/user-attachments/assets/a20effb2-927e-41c2-b50f-aaa394995cfc)
-
+![Screenshot (99)](https://github.com/user-attachments/assets/04b0be51-e711-43b4-ac33-ec6b9c77eaa5)
 <br/><br/>
-
 ##  💖Conclusion
 The Movie Filtering Application provides a dynamic and interactive experience for filtering movies based on title. It leverages React's component-based architecture, and modern responsive framework Tailwind CSS to deliver a responsive user interface. Future improvements could enhance functionality, performance, and user experience.<br/><br/>
 If you have any questions, suggestions, or just want to connect, feel free to reach out.<br/><br/><br/>
